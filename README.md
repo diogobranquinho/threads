@@ -1,5 +1,10 @@
-# threads
-Criação de Threads no SO
-- Linux
-- Windows
-- Java
+# Sobre Threads
+## Criação de Threads no SO
+- Linux C - PThreads
+- Python - Threading
+
+## Linux C
+Para compilar o código C no Linux, utilizar a biblioteca lpthread 
+gcc -o threads threads.c -lpthread
+
+

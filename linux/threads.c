@@ -24,6 +24,3 @@ int main (int argc, char *argv[]){
     }
     return 0;
 }
-
-
-// Como compilar gcc -o threads threads.c -lpthread
